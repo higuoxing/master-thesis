@@ -1,0 +1,6 @@
+[submodule "usrp-server"]
+	path = usrp-server
+	url = git@github.com:oh-my-physec/usrp-server.git
+[submodule "skg-client"]
+	path = skg-client
+	url = git@github.com:oh-my-physec/skg-client.git
